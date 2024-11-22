@@ -1,4 +1,5 @@
 ## Self_study  
+注：文件夹内resource前缀为课程相关资源
   
 ### 1.Python基础 - Python_snake<br>  
 资料：<<Python编程:从入门到实践>>（第三版）<br>
